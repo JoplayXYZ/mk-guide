@@ -10,9 +10,9 @@
 ## Changing the server version
   1. Go to your [minekeep.net/servers](https://minekeep.net/servers) dashboard
   2. On your server click the text that says `Version:`
-     ![](https://joplayxyz.github.io/mk-guide/media/images/server_versions.png)
+     ![img1](https://joplayxyz.github.io/mk-guide/media/images/server_versions.png)
   4. In the `Select server software` menu that appears you can change the version or software
-     ![](https://joplayxyz.github.io/mk-guide/media/images/server_software.png)
+     ![img2](https://joplayxyz.github.io/mk-guide/media/images/server_software.png)
 
   6. 
 
