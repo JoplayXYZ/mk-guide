@@ -17,7 +17,7 @@
   You can report servers or bugs in the [discord](https://discord.com/invite/minekeep-1116455059132268634) by creating a ticket.
 
 ## Can i install mods on my server?
-  Minekeep only supports fabric servers at the moment, to use fabric you need to set your [server software](changing-the-server-version) to fabric
+  Minekeep only supports fabric servers at the moment, to use fabric you need to set your [server software](#/?id=changing-the-server-version) to fabric
 
 # Guides
 
